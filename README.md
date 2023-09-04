@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulkumar112&label=Profile%20views&color=0e75b6&style=flat" alt="atulkumar112" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulkumar112" alt="atulkumar112" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Deepakkhotiyan" alt="Deepakkhotiyan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/astronautatul" target="blank"><img src="https://img.shields.io/twitter/follow/astronautatul?logo=twitter&style=for-the-badge" alt="astronautatul" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/astronautatul" target="blank"><img src="https://img.shields.io/twitter/follow/astronautatul?logo=twitter&style=for-the-badge" alt="astronautatul" /></a> </p>
 
 <!--
 **Deepakkhotiyan/Deepakkhotiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
