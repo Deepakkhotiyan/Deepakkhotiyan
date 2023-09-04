@@ -1,7 +1,9 @@
+![Git_Image](https://github.com/Deepakkhotiyan/Deepakkhotiyan/assets/87259147/48b4f9a9-c025-4fe0-8207-a2c7ae1a9eef)
 ### Hi 👋, I'm Deepak Khotiyan
 
 <!--
 **Deepakkhotiyan/Deepakkhotiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Git_Image](https://github.com/Deepakkhotiyan/Deepakkhotiyan/assets/87259147/48b4f9a9-c025-4fe0-8207-a2c7ae1a9eef)
 
 Here are some ideas to get you started:
 
