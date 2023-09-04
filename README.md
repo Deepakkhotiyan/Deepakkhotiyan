@@ -1,5 +1,8 @@
 ![Git_Image](https://github.com/Deepakkhotiyan/Deepakkhotiyan/assets/87259147/48b4f9a9-c025-4fe0-8207-a2c7ae1a9eef)
 ### Hi 👋, I'm Deepak Khotiyan
+<h1 align="center">Hi 👋, I'm Atul Kumar</h1>
+<h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!--
 **Deepakkhotiyan/Deepakkhotiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
