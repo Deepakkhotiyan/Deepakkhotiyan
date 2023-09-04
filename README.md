@@ -14,13 +14,7 @@
 ![Git_Image](https://github.com/Deepakkhotiyan/Deepakkhotiyan/assets/87259147/48b4f9a9-c025-4fe0-8207-a2c7ae1a9eef)
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on [Capgemini](https://www.capgemini.com/)
 
-- 🌱 I’m currently learning **DSA**
-
-- 💬 Ask me about **Coding**
-
-- 📫 How to reach me **deepakmzn18@gmail.com**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -31,3 +25,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on [Capgemini](https://www.capgemini.com/)
+
+- 🌱 I’m currently learning **DSA**
+
+- 💬 Ask me about **Coding**
+
+- 📫 How to reach me **deepakmzn18@gmail.com**
