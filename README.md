@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">RPA Tools:</h3>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="C:\Users\jigya\Downloads\download (1).png" alt="python" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/BluePrism-icon.png" alt="python" width="40" height="40"/> </a>
 <p align="left"> </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
